@@ -1,0 +1,11 @@
+
+.QR{
+  margin: 100rpx auto;
+  width: 500rpx;
+  height: 500rpx;
+}
+
+.canvasCode{
+  width: 100%;
+  height: 100%;
+}
